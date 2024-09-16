@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971948215829",
+    "project_id": "consultezy-4703c",
+    "storage_bucket": "consultezy-4703c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971948215829:android:2f24fb60634a907114c81c",
+        "android_client_info": {
+          "package_name": "com.example.consultezy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAreHE1SyIj3t0ZYNSKhxNT2LV02oBeOfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
